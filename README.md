@@ -1,2 +1,2 @@
-# dir
-Asynchronously removes  directories and files.
+# dir-bit
+Asynchronously removes  directories and files in nodejs
