@@ -70,5 +70,5 @@ function _delFss(path,fileArr,start,callback,arr){delFiless(path,fileArr,start,c
   * @param {object} new_fs `fs` module overriding object.
   */
  function o(new_fs){fs=new_fs}
- module.exports = {delFiles:_delf,rmdir:removeDir,overidefs:o};
+ module.exports = {deleteFiles:_delf,removeDir:removeDir,overidefs:o};
 
